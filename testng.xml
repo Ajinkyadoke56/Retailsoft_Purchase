@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
+      <class name="Retailsoft.Retailsoft.LoadApp"/>
       <class name="Retailsoft_Purchase.LoadApp"/>
       <class name="Retailsoft.Retailsoft.AppTest"/>
     </classes>
